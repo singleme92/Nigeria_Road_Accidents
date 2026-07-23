@@ -153,9 +153,6 @@ The dashboard includes the following visualizations:
 
 
 
-```text
-images/dashboard.png
-```
 
 ---
 
